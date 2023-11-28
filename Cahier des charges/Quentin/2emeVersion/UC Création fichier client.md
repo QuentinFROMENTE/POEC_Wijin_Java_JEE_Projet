@@ -32,4 +32,4 @@
 - L'utilisateur commercial renseigne les champs nécéssaires pour la création de la fiche :
 -> La base de donnée est hors ligne.
 -> Le client veux créeé un nouveau client.
--> Le système renvoie une erreur de connexion et invite le commercial à réintérer sa création de client plus tard.
+-> Le système renvoie une erreur de connexion et invite le commercial à réessayer sa création de client plus tard.
