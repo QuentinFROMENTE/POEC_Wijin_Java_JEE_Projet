@@ -2,8 +2,9 @@
 - GitHub
 
 # Conteneurisation :
-- Docker
+- Docker :
+    - Front-End : Nginx-Alpine
 
 # Outil Méthodologie Agile :
-- Jira (Kanban, Sprint, Epic, US, backlog)
-- Week Scrum le vendredi
+- Jira (Kanban, Sprint, Epic, US, Backlog)
+- WeeklyScrum le vendredi
