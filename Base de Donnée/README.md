@@ -15,5 +15,5 @@ docker start bdd-pfr
     - Remplacer le Host "Localhost" pour "172.17.0.2"
     - Port : 5432
     - Nom de la BDD : bdd-pfr
-    - Nom d'utilisateur : admin
-    - Mot de passe : password
+    - Nom d'utilisateur : "Sur le Discord"
+    - Mot de passe : "Sur le Discord"
