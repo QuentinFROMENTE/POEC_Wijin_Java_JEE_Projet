@@ -3,7 +3,7 @@
 - Afficher un client
 - Modifier un client
 
-Ces US ont été priorisées car elles sont obligatoire pour avoir un MVP. Les autres fonctionnalités seront développées dans d'autres sprints en fonction de la volonté du PO.
+Ces US ont été priorisées car elles sont obligatoires pour avoir un MVP. Les autres fonctionnalités seront développées dans d'autres sprints en fonction de la volonté du PO.
 
 # US étalon : Afficher un client
 -> Résultat Poker Planning : 20
